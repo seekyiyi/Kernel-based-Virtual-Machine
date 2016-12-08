@@ -8,8 +8,7 @@ KVM在具備#Intel VT#或#AMD-V#功能的x86平台上運行。
 在不改變linux或windows鏡像的情況下同時執行多個虛擬機器，（它的意思是多個虛擬機器使用同一鏡像）並為每一個虛擬機器配置個性化硬件環境（網卡、磁盤、圖形介面卡……）同時KVM還能夠使用ksm技術幫助宿主伺服器節約記憶體。
 
 KVM Model
-![KVM Model] （http://benjr.tw/wp-content/uploads/2013/11/kvm_qemu01.png
-
+![KVM Model] （http://benjr.tw/wp-content/uploads/2013/11/kvm_qemu01.png）
 
 ##QEMU 
 
